@@ -43,5 +43,6 @@
                 "Contents": "RezaRamezanpour\\LaravelToc\\TocFacade"
             }
         }
-    }
+    },
+    "minimum-stability": "dev",
 }
