@@ -4,7 +4,7 @@ namespace RezaRamezanpour\LaravelToc;
 
 use Illuminate\Support\Facades\Facade;
 
-class ContentsFacade extends Facade
+class TocFacade extends Facade
 {
     /**
      * Get the registered name of the component.

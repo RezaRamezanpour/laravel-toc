@@ -4,7 +4,7 @@ namespace RezaRamezanpour\LaravelToc;
 
 use Illuminate\Support\ServiceProvider;
 
-class ContentsServiceProvider extends ServiceProvider
+class TocServiceProvider extends ServiceProvider
 {
     public function boot()
     {
